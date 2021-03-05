@@ -1,4 +1,4 @@
-package lab2.ch3;
+package challenge3;
 
 public class Cat extends Animal implements Pet {
     private String name;

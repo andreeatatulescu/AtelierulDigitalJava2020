@@ -1,4 +1,4 @@
-package lab2.ch3;
+package challenge3;
 
 public abstract class Animal {
     protected int legs;
